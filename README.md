@@ -1,6 +1,6 @@
 # vitamin-eve-scripts
 
-Lil script supplements that make the day better
+Lil script supplements that make your life better
 
 ## DeScriptsion
 
