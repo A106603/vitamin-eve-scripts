@@ -24,4 +24,4 @@ echo
 sleep 10
 
 # Open up Chrome tabs
-chrome_open_tab "https://lofimusic.app/chilledcow" "https://github.com/PCDST/AI_ML-Requests/projects/2?card_filter_query=assignee%3AA106603" "http://pgr/sites/highway/Pages/highway.aspx" "https://mail.google.com/mail/u/0/?tab=wm&ogbl&safe=active&safe=active#inbox"
+chrome_open_tab "https://lofimusic.app/chilledcow" "https://github.com/PCDST/AI_ML-Requests/projects/2?card_filter_query=assignee%3AA106603" "http://pgr/sites/highway/Pages/highway.aspx" "https://mail.google.com/mail/u/0/?tab=wm&ogbl&safe=active&safe=active#inbox" "https://messages.google.com/web/conversations"
